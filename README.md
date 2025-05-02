@@ -44,13 +44,22 @@ sh get-docker.sh
 
 ## 3️⃣ Launch the Node
 
-### 📥 Clone the Repository:
+### 📥 Install Aztec:
 
-```bash
-git clone https://github.com/AztecProtocol/aztec-node.git
-cd aztec-node
 ```
-###Rpc  https://drpc.org 
+bash -i <(curl -s https://install.aztec.network)
+```
+### Rpc  https://drpc.org 
+
+### manually add a path to .bashrc
+```
+echo 'export PATH="$HOME/.aztec/bin:$PATH"' >> ~/.bashrc
+```
+
+###  Apply changes
+```
+source ~/.bashrc
+```
 
 ### 🚀 Start:
 
