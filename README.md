@@ -11,7 +11,7 @@ A clean and simplified guide for deploying the Aztec Sequencer node. All signal,
 - ✅ CPU: 8 cores
 - ✅ RAM: 16 GB
 - ✅ SSD: 100 GB+
-
+- ✅ Internet Speed	25 Mbps Upload / Download
 ---
 
 ## 1️⃣ Prepare Your System
